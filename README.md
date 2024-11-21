@@ -2,16 +2,16 @@
 Welcome to the Dhumbaal Card Game! This is a digital version of the traditional card game implemented in C++ using SFML (Simple and Fast Multimedia Library).<br><br>
 ✨ Features<br>
 •	🎮 Interactive Gameplay: Play against a bot in turn-based mode.<br>
-•	🖱️ Dynamic Card Selection: Select cards with the mouse to create valid sets.
-•	📜 Game Rules Compliance: Ensures that only valid card combinations are accepted.
-•	🖼️ Smooth Visuals: Clean and interactive graphics rendered using SFML.
-•	🤖 AI Opponent: A bot that makes logical moves based on its cards.
-📜 Game Rules
-The objective of the game is to form valid sets of cards and strategically manage your hand to win.
-✅ Valid Card Sets:
-1. Same Value:
-   - All selected cards must have the same value (e.g., 3 of ♥️, 3 of ♠️, 3 of ♦️).
-2. Consecutive Sequence:
+•	🖱️ Dynamic Card Selection: Select cards with the mouse to create valid sets.<br>
+•	📜 Game Rules Compliance: Ensures that only valid card combinations are accepted.<br>
+•	🖼️ Smooth Visuals: Clean and interactive graphics rendered using SFML.<br>
+•	🤖 AI Opponent: A bot that makes logical moves based on its cards.<br><br>
+📜 Game Rules<br>
+The objective of the game is to form valid sets of cards and strategically manage your hand to win.<br>
+✅ Valid Card Sets:<br>
+1. Same Value:<br>
+   - All selected cards must have the same value (e.g., 3 of ♥️, 3 of ♠️, 3 of ♦️).<br>
+2. Consecutive Sequence:<br>
    - Cards must form a consecutive sequence and have the same suit (e.g., 5, 6, 7 of ♠️).
 🔄 Gameplay Flow:
 1. Players take turns.
