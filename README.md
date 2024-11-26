@@ -25,7 +25,7 @@ Prerequisites:<br>
 •	📦 SFML Library: Download and install SFML (version 2.5.1 or later).<br><br>
 Steps:<br>
 1.	Clone this repository:<br>
-   git clone https://github.com/yourusername/dhumbaal-card-game.git<br>
+   git clone(https://github.com/bikesh19/Dhumbaal-game)<br>
    cd dhumbaal-card-game<br>
 2.	Compile the code:<br>
    g++ -o dhumbaal main.cpp -lsfml-graphics -lsfml-window -lsfml-system<br>
